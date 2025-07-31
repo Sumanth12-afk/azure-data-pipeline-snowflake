@@ -154,3 +154,6 @@ ORDER BY total_revenue DESC;
 - 1 Snowflake table created with cleaned data
 - Live bar chart of revenue by product category
 - Fully real-world cloud-native ETL project ✅
+
+  <img width="1024" height="1024" alt="a0601aeb-4d09-4ec7-9185-b35571982d56" src="https://github.com/user-attachments/assets/4ae84d19-c3ed-4f53-b0ec-2a4dab5ff1ea" />
+
