@@ -157,5 +157,6 @@ ORDER BY total_revenue DESC;
 
 ---
 ## 📊 ETL Pipeline Architecture: Azure to Snowflake
-  <img width="700" height="1000" alt="a0601aeb-4d09-4ec7-9185-b35571982d56" src="https://github.com/user-attachments/assets/4ae84d19-c3ed-4f53-b0ec-2a4dab5ff1ea" />
+  <img src="https://github.com/user-attachments/assets/4ae84d19-c3ed-4f53-b0ec-2a4dab5ff1ea" width="700" alt="ETL Architecture" />
+
 
